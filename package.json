@@ -1,6 +1,6 @@
 {
-  "name": "@react-custom-ui/date-picker-material-ui",
-  "version": "0.0.1",
+  "name": "@insolva-dev/date-picker-material-ui",
+  "version": "0.0.3",
   "description": "Date picker React Component based material-ui",
   "main": "dist/index.js",
   "directories": {
